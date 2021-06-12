@@ -4,9 +4,9 @@
 #include <Wire.h>
  
 // Connect to the WiFi
-const char* ssid = "koki_2G";
-const char* password = "kmprr1205";
-const char* mqtt_server = "192.168.1.10";
+const char* ssid = //Wifi Username;
+const char* password = //Wifi Password;
+const char* mqtt_server = //IP Address;
 
 bool state;
 
